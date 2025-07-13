@@ -1,7 +1,7 @@
 3. Memory Anatomy (Linux Process Layout)
 Every Linux process sees this virtual address space:
 
--Kernel Space (protected)     0xFFFFFFFFFFFFFFFF (very high)
+- `Kernel Space (protected)     0xFFFFFFFFFFFFFFFF (very high)
 - `Stack (grows ↓)
 - `Heap (grows ↑)
 - `.bss (uninitialized vars)
