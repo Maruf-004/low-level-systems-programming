@@ -1,9 +1,9 @@
-` [ higher addresses ]
-` │ function parameters     │
-` │ return address          │ ← stored by CALL
-` │ saved base pointer (rbp)│
-` │ local variables         │
-` [ lower addresses ]
+` higher addresses 
+` function parameters     
+` return address          │ ← stored by CALL
+` saved base pointer (rbp)
+` local variables         
+` lower addresses 
 
 
 **Explanation:**
